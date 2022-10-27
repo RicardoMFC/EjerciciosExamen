@@ -1,4 +1,6 @@
 import math
+import sys
+
 def introducir_num():
     try:
         numero_usuario = int (input("Introduzca un número\n"))
