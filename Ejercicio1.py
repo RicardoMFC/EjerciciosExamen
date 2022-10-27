@@ -48,6 +48,4 @@ def main():
         print("Es mayor de edad\n")
     else:
         print("No es mayor de edad\n")
-
-
 main()

@@ -5,7 +5,7 @@ def reverse_lista(lista):
         aux=lista[len(lista)-i-1]
         lista[len(lista)-i-1]=lista[i]
         lista[i]=aux
-
+    
     return lista
 
 def main():

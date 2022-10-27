@@ -1,7 +1,6 @@
 def recorrido(lista):
     condicion_300=0
     for i in range (len(lista)):
-
         if lista[i]%10==0 and lista[i]<200:
             print("\n",lista[i])
         elif lista[i]>300:                
