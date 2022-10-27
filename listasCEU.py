@@ -25,6 +25,4 @@ def main():
     lista3=modificar2(lista)
     lista4=eliminar_elemento(lista3)
     print(lista2)
-    
-
 main()
